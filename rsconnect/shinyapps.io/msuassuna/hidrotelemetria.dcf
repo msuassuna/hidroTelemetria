@@ -1,0 +1,10 @@
+name: hidrotelemetria
+title:
+username:
+account: msuassuna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1999280
+bundleId: 4335961
+url: https://msuassuna.shinyapps.io/hidrotelemetria/
+when: 1615559760.82634
